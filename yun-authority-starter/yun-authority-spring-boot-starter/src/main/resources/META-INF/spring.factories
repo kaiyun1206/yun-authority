@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yun.authority.spring.AuthBeanRegister,\
+com.yun.authority.spring.AuthBeanInject,\
+com.yun.authority.spring.oauth2.OAuth2BeanRegister,\
+com.yun.authority.spring.oauth2.OAuth2BeanInject
